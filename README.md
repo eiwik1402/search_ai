@@ -200,7 +200,9 @@ python search_space_visualization.py
 | 4 | 24127595 | Lê Thị Như Ý |
 
 **Môn học:** CSC14003 - Cơ sở Trí tuệ Nhân tạo
+
 **Khoa:** Công nghệ Thông tin - ĐHKHTN TPHCM
+
 **Năm học:** 2025-2026
 
 --- 
