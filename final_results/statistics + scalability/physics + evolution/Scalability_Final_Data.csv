@@ -1,0 +1,5 @@
+Miền,Quy mô,DE (s),GA (s),SA (s)
+Rastrigin,5D,0.0253,1.435,0.5206
+Rastrigin,30D (Proj.),0.1986,11.2649,4.0868
+TSP,20 Nodes,1.0862,2.3031,1.001
+TSP,50 Nodes (Proj.),3.2617,6.9158,3.0058

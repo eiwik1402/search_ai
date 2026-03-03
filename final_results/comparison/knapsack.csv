@@ -1,0 +1,4 @@
+﻿Algorithm,Best Value,Runtime (seconds)
+PSO (Binary),0.0,0.06657110003288835
+Firefly,53.8,0.16533059999346733
+Cuckoo Search,180.0,0.08217880001757294

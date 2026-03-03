@@ -1,0 +1,9 @@
+﻿Algorithm,Best Value,Runtime (seconds)
+ACO,0,0.122327
+PSO,0,0.0450921
+ABC,0,0.1307674
+Firefly,3.00E-05,0.2135523
+Cuckoo Search,6.00E-05,0.0532883
+SA,1.70E-05,0.2697744
+Hill Climbing,0.001545,0.002024
+TLBO,1.17E-17,0.038177
