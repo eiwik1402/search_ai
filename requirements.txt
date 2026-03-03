@@ -1,0 +1,7 @@
+# Data Manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
