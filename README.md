@@ -120,7 +120,14 @@ Chạy và hiển thị kết quả từng thuật toán thông qua CLI menu tư
 python results_visualization.py
 ```
 
-**4. Xem Landscape Không Gian Tìm Kiếm (`search_space_visualization.py`)**
+**4. Chạy thống kê kết quả từng thuật toán (`run_statistics.py`)**
+
+Chạy các thuật toán với số lượng cố định (30 lần) để tính các giá trị thống kê (Mean, Std, Best, Worst, ...)
+
+```bash
+python run_statistics.py
+```
+**5. Xem Landscape Không Gian Tìm Kiếm (`search_space_visualization.py`)**
 
 Vẽ các hàm mục tiêu 3D Surface plots và minh họa không gian bài toán.
 
