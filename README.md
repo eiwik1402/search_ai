@@ -48,14 +48,7 @@ Dự án triển khai, phân tích và so sánh các thuật toán tìm kiếm c
 ## Cấu Trúc Thư Mục
 
 ```text
-├── final_results/
-│   ├── comparison/                            # Kết quả so sánh của từng bài toán
-│   └── statistics + scalability/              # Thống kê scalability
-│       ├── classic/
-│       ├── human/
-│       ├── physics + evolution/
-│       └── swarm/
-└── src/
+└── ai_search/
     ├── algo_classic/                          # Tìm kiếm cổ điển
     │   └── bfs.py, dfs.py, ucs.py, gbfs.py, astar.py, hill_climbing.py, main_classical.py
     ├── algo_evolution/                        # Evolution-based
@@ -66,6 +59,13 @@ Dự án triển khai, phân tích và so sánh các thuật toán tìm kiếm c
     │   └── sa_rastrigin.py, sa_sphere.py
     ├── algo_swarm/                            # Biology-based (Swarm Intelligence)
     │   └── abc.py, aco_path.py, aco.py, cs.py, fa.py, pso.py
+    └── final_results/
+        ├── comparison/                            # Kết quả so sánh của từng bài toán
+        └── statistics + scalability/              # Thống kê scalability
+            ├── classic/
+            ├── human/
+            ├── physics + evolution/
+            └── swarm/
     ├── algorithms.py                          # Menu chạy demo từng thuật toán
     ├── comparison.py                          # Menu so sánh hiệu năng
     ├── results_visualization.py               # Trực quan hóa kết quả
